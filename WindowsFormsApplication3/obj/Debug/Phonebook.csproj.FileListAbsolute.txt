@@ -1,0 +1,9 @@
+C:\Users\Engineer Mahmud\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Engineer Mahmud\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Engineer Mahmud\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Engineer Mahmud\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Engineer Mahmud\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Engineer Mahmud\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Engineer Mahmud\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Phonebook.csproj.GenerateResource.Cache
+C:\Users\Engineer Mahmud\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Engineer Mahmud\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
